@@ -1,5 +1,6 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
 
 <h3 align="center">
   Welcome to Kerolos Bedier's profile!
