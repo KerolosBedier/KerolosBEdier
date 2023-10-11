@@ -14,17 +14,23 @@
 
 - 🏢 I'm a Student at the Faculty of Computers and Artificial Intelligence, Cairo University.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 📫 Reach me at **kerolos.bedier@gmail.com**
 
-### Connect with Me :
 
-<a href="https://linkedin.com/in/Kerolos Bedier" target="_blank"><img src="https://img.shields.io/badge/-Kerolos%20Bedier-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/BedierKerolos" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/x.svg" alt="BedierKerolos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kerolos-bedier-43b320262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerolos-bedier-43b320262" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kerolos.bedier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kerolos.bedier" height="30" width="40" /></a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
 
 
 
